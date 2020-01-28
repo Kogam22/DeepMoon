@@ -101,7 +101,8 @@ affect final model convergence.
 
 See `docs/Using Zenodo Data.ipynb` for basic examples on generating sample
 datasets, loading a pre-trained CNN and using it to make predictions on
-samples.
+samples. 
+Or run the examples live on this [**Goolge Colab Notebook**](https://colab.research.google.com/drive/1espcEGgZLQetDl5ro-9a8t8UWxbUdTK3).
 
 ## Authors
 
